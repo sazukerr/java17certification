@@ -45,6 +45,11 @@ public class Shop {
         }
         System.out.println(p);
 
+        /**
+         * result:
+         * cookie 0.0 2.99
+         */
+
     }
 
 }
